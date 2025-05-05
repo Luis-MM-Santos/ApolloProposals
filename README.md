@@ -15,4 +15,4 @@ As the deadline neared, we brought everything together: from file upload and con
 This project taught us how to approach a real-world enterprise problem with both a technical and strategic mindset. We not only had to build a product, but we had to think about UX, content quality, and long-term adaptability. While there's still much we’d like to refine—especially on the AI training side—we’re proud of what we accomplished and eager to keep improving it beyond the bootcamp.
 
 //TECH && METHODOLOGIES
-Java, Spring Boot, SpringAI, SpringMVC PostgresSQL, REST API, HTML, CSS, JavaScript, Git, SCRUM, AI/LLM integration (OpenAI), JSON parsing, Postman for API testing.
+Java, Spring Boot, Lombok,  SpringAI, SpringMVC PostgresSQL, REST API, HTML, CSS, JavaScript, Git, SCRUM, AI/LLM integration (OpenAI), JSON parsing, Postman for API testing.
